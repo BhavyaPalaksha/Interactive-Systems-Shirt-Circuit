@@ -5,14 +5,14 @@ A soft breadboard(internally connected board to prototype circuits) on textile c
 ## Getting started
 
 Hardware requirements: 
-Felt
-Conductive thread
-Sew-on male snap-fits (conductive) 
-Male snaps(conductive)
-Copper tape
-LEDs
-Electrical wire
-Coin cell battery holder and coin cell batteries
+Felt,
+Conductive thread,
+Sew-on female snap-fits (conductive) ,
+Male snaps(conductive),
+Copper tape,
+LEDs,
+Electrical wire,
+Coin cell battery holder and coin cell batteries.
 
 ## Running the tests
 Circuit tests for each level of prototype are done. All the test videos are available in 'test' folder.
